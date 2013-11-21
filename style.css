@@ -1,6 +1,6 @@
 body {
-	color:yellow;
-	background:black;
+	color:black
+	background:yellow;
 	font-family:Verdana;
 	width:960px;
 	margin:auto;
@@ -47,3 +47,4 @@ a:hover {
 	border: 2px solid orange;
 	border-radius:10px;
 }
+p {color:black}
